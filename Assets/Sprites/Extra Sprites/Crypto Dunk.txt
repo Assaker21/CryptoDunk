@@ -1,0 +1,3 @@
+- Assimilate rotation inside the game.
+- Create a randomized jumping
+- Fix basket registration
